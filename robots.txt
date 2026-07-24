@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Polarhans.github.io/immaculate-bins-website-v2/sitemap.xml
