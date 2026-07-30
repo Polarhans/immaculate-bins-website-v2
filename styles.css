@@ -332,6 +332,8 @@ a{color:inherit;}
 .band-ink h2, .band-ink h3{color:var(--white);}
 .chips{display:flex;flex-wrap:wrap;gap:10px;}
 .chip{font-family:'IBM Plex Mono',monospace;font-size:.82rem;background:var(--white);border:1px solid var(--fog);border-radius:20px;padding:.5em 1.1em;}
+.photo-frame{background:var(--white);border:1px solid var(--fog);border-radius:var(--radius);padding:0;overflow:hidden;display:flex;align-items:center;justify-content:center;height:280px;background:var(--fog);}
+.photo-frame img{display:block;max-width:100%;max-height:100%;width:auto;height:auto;object-fit:contain;}
 footer{background:var(--ink);color:#B9C6C4;padding:56px 0 28px;}
 .footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px;margin-bottom:40px;}
 @media (max-width:760px){.footer-grid{grid-template-columns:1fr;}}
