@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://polarhans.github.io/immaculate-bins-website-v2/services/</loc>
-    <lastmod>2026-07-30T15:52:24.562Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://polarhans.github.io/immaculate-bins-website-v2/pricing/</loc>
-    <lastmod>2026-07-30T15:52:19.159Z</lastmod>
+    <loc>https://polarhans.github.io/immaculate-bins-website-v2/</loc>
+    <lastmod>2026-07-30T16:00:51.181Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://polarhans.github.io/immaculate-bins-website-v2/contact/</loc>
-    <lastmod>2026-07-30T15:52:13.539Z</lastmod>
+    <lastmod>2026-07-30T16:00:44.377Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://polarhans.github.io/immaculate-bins-website-v2/services/</loc>
+    <lastmod>2026-07-30T15:59:58.848Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://polarhans.github.io/immaculate-bins-website-v2/pricing/</loc>
+    <lastmod>2026-07-30T15:58:57.034Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://polarhans.github.io/immaculate-bins-website-v2/about/</loc>
-    <lastmod>2026-07-30T15:52:07.802Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://polarhans.github.io/immaculate-bins-website-v2/</loc>
-    <lastmod>2026-07-30T15:52:02.475Z</lastmod>
+    <lastmod>2026-07-30T15:58:39.203Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
